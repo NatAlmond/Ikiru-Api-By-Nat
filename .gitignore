@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Vercel
+.vercel
+
+# Logs / test
+*.log
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+
+# OS
+Thumbs.db
+￼Enter
