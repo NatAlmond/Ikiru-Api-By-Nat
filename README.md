@@ -49,6 +49,4 @@ curl "https://YOUR.vercel.app/api/chapter?slug=necromancer-foya-foya&chapter=22"
 
 ## Integrasi Nat-Multi Tools
 
-Pakai sebagai source comic (mirip AinzScans) dengan base URL deploy API ini.
-
 **By: Nat🥜**
